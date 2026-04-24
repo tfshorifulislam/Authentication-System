@@ -1,0 +1,32 @@
+[
+  {
+    id: 1,
+    name: "AI Starter Plan",
+    description: "Basic AI tools access for beginners including chat, simple automation, and limited API usage.",
+    price: 9.99
+  },
+  {
+    id: 2,
+    name: "AI Pro Plan",
+    description: "Advanced AI features with faster responses, higher usage limits, and priority support.",
+    price: 19.99
+  },
+  {
+    id: 3,
+    name: "AI Content Creator",
+    description: "Specialized AI for generating blogs, social media posts, images, and marketing content.",
+    price: 24.99
+  },
+  {
+    id: 4,
+    name: "AI Developer Suite",
+    description: "Full access to AI APIs, code generation, debugging tools, and integration support.",
+    price: 39.99
+  },
+  {
+    id: 5,
+    name: "AI Business Plan",
+    description: "Enterprise-grade AI solutions with team collaboration, analytics, and custom workflows.",
+    price: 59.99
+  }
+];
